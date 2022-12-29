@@ -1,0 +1,20 @@
+{
+  "name": "task-aws-image-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1280.0",
+    "dotenv": "^16.0.3",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0"
+  }
+}
